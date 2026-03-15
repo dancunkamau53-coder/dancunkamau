@@ -19,7 +19,3 @@ Here are some of my recent practice projects:
 1. **Personal Website** – A clean and responsive HTML site  
 2. **Portfolio Page** – Showcases my coding projects  
 3. **Interactive Game** – A fun browser-based 
-
----
-
-> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*

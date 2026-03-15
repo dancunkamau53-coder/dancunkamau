@@ -9,6 +9,7 @@ I'm looking to collabrate on
 - Git and GitHub
 - Python,HTML/CSS and Machine learning
 
-## How to Reach Me
-- Email: [mudash2542gmail.com]
+## How to Reach Me 
+- Email: [mudash254@gmail
+  .com]
   
